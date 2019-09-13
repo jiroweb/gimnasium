@@ -1,0 +1,2952 @@
+@media (max-width: 1700px) {
+    /*========================-HEADER-MEDIA-max-width-1700-START-========================*/
+    .main-gymnasium-slider {
+        max-width: 920px;
+        width: 100%;
+    }
+
+    .main-slider-js .slick-next {
+        right: 5%;
+    }
+
+    .main-slider-js .slick-prev {
+        left: 5%;
+    }
+
+    /*=========================-HEADER-MEDIA-max-width-1700-END-=========================*/
+}
+
+@media (max-width: 1400px) {
+    .reviews-block-js .slick-prev {
+        left: -4%;
+    }
+
+    .reviews-block-js .slick-next {
+        right: -4%;
+    }
+}
+
+@media (max-width: 1300px) {
+
+    .reviews-block-js .slick-prev {
+        width: 50px;
+        height: 50px;
+        right: 6%;
+        left: unset;
+        top: -30px;
+    }
+
+    .reviews-block-js .slick-next {
+        width: 50px;
+        height: 50px;
+        right: 1%;
+        top: -30px;
+    }
+
+    .reviews-block-js .slick-next:before {
+        height: 14px;
+        width: 14px;
+        top: 17px;
+        right: 19px;
+    }
+
+    .reviews-block-js .slick-prev:before {
+        height: 14px;
+        width: 14px;
+        top: 17px;
+        left: 19px;
+    }
+}
+
+@media (max-width: 1199.98px) {
+    .section-title h3 {
+        font-weight: bold;
+        font-size: 30px;
+    }
+
+    .section-title h5 {
+        font-weight: bold;
+        font-size: 26px;
+    }
+
+    /*=======================-HEADER-MEDIA-max-width-1199.98-START-=======================*/
+    nav {
+        padding: 15px 0 18px;
+    }
+
+    .contacts ul li a {
+        font-size: 12px;
+    }
+
+    .logo-name {
+        max-width: 290px;
+    }
+
+    .company-name p a, .address-info p, .director-number p a {
+        font-size: 15px;
+    }
+
+    .address-info {
+        width: 189px;
+    }
+
+    .number-info {
+        width: 177px;
+    }
+
+    .dropdown-content {
+        padding: 25px 85px 25px 25px;
+    }
+
+    /*========================-HEADER-MEDIA-max-width-1199.98-END-========================*/
+    /*========================-EVENTS-MEDIA-max-width-1199.98-START-======================*/
+    .calendar-news {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+    }
+
+    .news-photo {
+        width: 100%;
+    }
+
+    .news-title-text {
+        width: 100%;
+    }
+
+    .child-pic {
+        margin: 20px auto 0 auto;
+    }
+
+    /*=========================-EVENTS-MEDIA-max-width-1199.98-END-=======================*/
+    /*===================INTERVIEW-HEADER-MEDIA-max-width-1199.98-START===================*/
+    .interview-header .number-contact a {
+        font-size: 20px;
+    }
+
+    /*==================INTERVIEW-HEADER-MEDIA-max-width-1199.98-END==================*/
+    /*====================INTERVIEW-BLOCK-MEDIA-max-width-1199.98-START==================*/
+    .interview-title-block {
+        height: 510px;
+    }
+
+    /*=====================INTERVIEW-BLOCK-MEDIA-max-width-1199.98-END===================*/
+    /*====================LIKE-GYMNASIUM-MEDIA-max-width-1199.98-START===================*/
+    .like-gymnasium {
+        margin: 90px 0;
+    }
+
+    /*=====================LIKE-GYMNASIUM-MEDIA-max-width-1199.98-END====================*/
+    /*======================FIRST-CLASS-MEDIA-max-width-1199.98-START====================*/
+    .first-class {
+        padding-top: 90px;
+    }
+
+    .character-tick {
+        margin-right: 10px;
+    }
+
+    .work-character p {
+        font-size: 17px;
+    }
+
+    /*=======================FIRST-CLASS-MEDIA-max-width-1199.98-END=====================*/
+    /*======================ACHIEVEMENT-MEDIA-max-width-1199.98-START-===================*/
+    .achievement {
+        padding: 85px 0 95px;
+    }
+
+    /*=======================ACHIEVEMENT-MEDIA-max-width-1199.98-END-====================*/
+    /*========================REVIEWS-MEDIA-max-width-1199.98-START======================*/
+    .reviews-section {
+        padding: 90px 0;
+    }
+
+    .main-reviews-slider {
+        padding: 36px 37px 39px 32px;
+        margin: 0 auto;
+    }
+
+    .reviews-block-js .slick-prev {
+        right: 70px;
+    }
+
+    /*=========================REVIEWS-MEDIA-max-width-1199.98-END=======================*/
+    /*===================SIGN-UP-INTERVIEW-MEDIA-max-width-1199.98-START=================*/
+    .sign-up-interview {
+        margin-top: 80px;
+        padding: 35px 50px 48px 50px;
+    }
+
+    .interview-footer {
+        margin-top: 90px;
+    }
+
+    .children-pic {
+        width: 450px;
+    }
+
+    /*====================SIGN-UP-INTERVIEW-MEDIA-max-width-1199.98-END==================*/
+    /*=======================QUESTIONS-MEDIA-max-width-1199.98-START=====================*/
+    .questions-info > p {
+        font-size: 18px;
+        margin-bottom: 40px;
+    }
+
+    .questions-info .sign-up-interview:before {
+        width: 73px;
+        height: 76px;
+    }
+
+    .questions-info .sign-up-interview {
+        margin-top: 80px;
+        padding: 35px 25px 48px 25px;
+    }
+
+    .questions-info .slider-button button {
+        font-size: 15px;
+    }
+
+    /*=========================QUESTIONS-MEDIA-max-width-1199.98-END======================*/
+    /*=====================MAIN_REVIEWS-MEDIA-max-width-1199.98-START====================*/
+    .reviews-text {
+        padding: 36px 35px 36px 35px;
+        max-width: 555px;
+    }
+
+    .main-reviews-info .sign-up-interview:before {
+        width: 87px;
+        height: 89px;
+    }
+
+    /*======================MAIN_REVIEWS-MEDIA-max-width-1199.98-END=====================*/
+    /*=====================OUR-STUDENTS-MEDIA-max-width-1199.98-START====================*/
+    .student-text i {
+        margin-bottom: 15px;
+    }
+
+    .student-text p {
+        line-height: 1.3;
+    }
+
+    /*======================OUR-STUDENTS-MEDIA-max-width-1199.98-END=====================*/
+    /*=====================OUR-TEACHERS-MEDIA-max-width-1199.98-START====================*/
+    .our-teachers-info h5 {
+        margin-top: 50px;
+    }
+
+    .leadership .teacher-info > p {
+        font-size: 15px;
+    }
+
+    .teacher-message p {
+        font-size: 13px;
+        line-height: 1.3;
+    }
+
+    .teachers-list .teacher-info {
+        width: 25%;
+    }
+
+    .teacher-message {
+        width: 300px;
+        padding: 20px 15px 20px 20px;
+    }
+    .teachers-list .teacher-message{
+        width: 250px;
+    }
+    .teachers-list .right-dropdown .teacher-message,  .teachers-list .left-dropdown .teacher-message  {
+        left: -23%;
+        top: 66%;
+    }
+    .right-dropdown .teacher-message, .left-dropdown .teacher-message {
+        right: unset;
+        top: 71%;
+        left: -34%;
+    }
+    .left-dropdown .teacher-message:before, .right-dropdown .teacher-message:before{
+        right: unset;
+        left: 45%;
+        top: -10px;
+        -webkit-transform: rotate(45deg);
+            -ms-transform: rotate(45deg);
+                transform: rotate(45deg);
+    }
+
+    /*======================OUR-TEACHERS-MEDIA-max-width-1199.98-END=====================*/
+    /*====================MEDIA-ARCHIVE-MEDIA-max-width-1199.98-START====================*/
+    .media-archive h5 {
+        margin-bottom: 30px;
+    }
+
+    /*=====================MEDIA-ARCHIVE-MEDIA-max-width-1199.98-END=====================*/
+    /*========================PHOTO-ALBUM-max-width-1199.98-START========================*/
+    .album-title {
+        margin-bottom: 30px;
+    }
+
+    /*=========================PHOTO-ALBUM-max-width-1199.98-END=========================*/
+    /*====================VACANT-PLACES-MEDIA-max-width-1199.98-START====================*/
+    .vacant-appointment {
+        margin-bottom: 55px;
+    }
+
+    .vacant-places-info .sign-up-btn {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+
+    .vacant-places-info .sign-up-btn .slider-button {
+        max-width: unset;
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+
+    /*=====================VACANT-PLACES-MEDIA-max-width-1199.98-END=====================*/
+    /*======================RESOURCES--MEDIA-max-width-1199.98-START=====================*/
+    .resources-list .child-img {
+        max-width: 230px;
+    }
+
+    /*======================RESOURCES-MEDIA-max-width-1199.98-END======================*/
+    /*========================STUDIOS-MEDIA-max-width-1199.98-START======================*/
+    .studios-info p {
+        line-height: 1.5;
+    }
+
+    .art-studio {
+        margin-bottom: 30px;
+    }
+
+    .studios-info > p {
+        margin-bottom: 30px;
+    }
+
+    .section-slider {
+        padding-top: 0px;
+    }
+
+    /*=========================STUDIOS-MEDIA-max-width-1199.98-END=======================*/
+    /*====================CONTACTS-SECTION-MEDIA-max-width-1199.98-START=================*/
+    .contacts-info {
+        width: 48%;
+    }
+
+    .map-info {
+        width: 50%;
+    }
+
+    /*=====================CONTACTS-SECTION-MEDIA-max-width-1199.98-END==================*/
+
+
+}
+
+
+@media (max-width: 991.98px) {
+    .section-title h3 {
+        font-size: 25px;
+    }
+
+    .section-title h5 {
+        font-size: 22px;
+    }
+
+    /*=======================-HEADER-MEDIA-max-width-991.988-START-=======================*/
+    header {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: reverse;
+            -ms-flex-direction: column-reverse;
+                flex-direction: column-reverse;
+    }
+
+    .contacts ul {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+
+    .contacts ul li + li {
+        margin-left: 30px;
+    }
+
+    .contacts ul li a {
+        font-size: 13px;
+    }
+
+    .address-number {
+        padding: 20px 0;
+        margin-top: 50px;
+        border: none;
+    }
+
+    .logo-name {
+        max-width: 194px;
+    }
+
+    .company-name p a {
+        width: 143px;
+    }
+
+    .address-info {
+        width: 181px;
+    }
+
+    .number-info {
+        width: 163px;
+    }
+
+    .company-name p a, .address-info p, .director-number p a {
+        font-size: 14px;
+    }
+
+    .icon-form {
+        width: 40px;
+        height: 40px;
+    }
+
+    .sidenav > ul {
+        padding: 24px 0 0 53px;
+    }
+
+    .sidenav > ul > li > a {
+        font-size: 18px;
+        padding: 0;
+    }
+
+    .sidenav > ul > li {
+        margin-bottom: 30px;
+    }
+
+    .open-menu span:nth-child(2), .open-menu span:nth-child(3) {
+        top: 10px;
+    }
+
+    .open-menu span:last-child {
+        top: 20px;
+    }
+
+    .open-menu {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        position: absolute;
+        left: 15px;
+        z-index: 999999999;
+        top: 20px;
+    }
+
+    .header-change-language ul {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+    }
+
+    .menu-cnt {
+        margin: 0;
+        height: 100%;
+        width: 0;
+        position: fixed;
+        z-index: 9999;
+        top: 0;
+        left: 0;
+        overflow-x: hidden;
+        padding: 25px 0;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-align: start;
+        -ms-flex-align: start;
+        align-items: flex-start;
+        -webkit-box-pack: start;
+        -ms-flex-pack: start;
+        justify-content: flex-start;
+        background-color: white;
+    }
+
+    .menu-cnt ul {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-align: start;
+        -ms-flex-align: start;
+        align-items: flex-start;
+        margin-bottom: 10px;
+    }
+
+    .header-menu-block {
+        -webkit-box-pack: start;
+        -ms-flex-pack: start;
+        justify-content: flex-start;
+        -webkit-box-align: start;
+        -ms-flex-align: start;
+        align-items: flex-start;
+    }
+
+    .menu-dropdown {
+        z-index: 9999999;
+    }
+
+    .dropdown-content {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+        width: 460px;
+        top: -24px;
+        left: 125%;
+    }
+
+    .dropdown-content h6 {
+        font-size: 16px;
+        margin-bottom: 13px;
+    }
+
+    .dropdown-content ul li {
+        margin-bottom: 10px;
+    }
+
+    .dropdown-content ul li a {
+        font-size: 14px;
+    }
+
+    /*========================-HEADER-MEDIA-max-width-991.98-END-========================*/
+    /*=======================-ABOUT-US-MEDIA-max-width-991.98-START-=====================*/
+    .about-us {
+        margin-top: 60px;
+    }
+
+    /*========================-ABOUT-US-MEDIA-max-width-991.98-END-======================*/
+    /*========================-EVENTS-MEDIA-max-width-991.98-START-======================*/
+    .events {
+        margin-top: 60px;
+    }
+
+    /*=========================-EVENTS-MEDIA-max-width-991.98-END-=======================*/
+    /*========================-GALLERY-MEDIA-max-width-991.98-START-=====================*/
+    .gallery-section {
+        padding-top: 60px;
+    }
+
+    .photo-video {
+        width: 50%;
+    }
+
+    /*=========================-GALLERY-MEDIA-max-width-991.98-END-======================*/
+    /*========================FOOTER-MEDIA-max-width-991.98-START-========================*/
+    .footer-info {
+        width: 85%;
+    }
+
+    .children-pic {
+        display: none;
+    }
+
+    /*=========================FOOTER-MEDIA-max-width-991.98-END-=========================*/
+    /*===================INTERVIEW-HEADER-MEDIA-max-width-991.98-START===================*/
+    .interview-header {
+        margin: 0;
+    }
+
+    .interview-header .logo-main {
+        width: 40px;
+        height: 60px;
+    }
+
+    .interview-header .number-contact a {
+        font-size: 17px;
+    }
+
+
+    /*====================INTERVIEW-HEADER-MEDIA-max-width-991.98-END====================*/
+    /*=====================INTERVIEW-BLOCK-MEDIA-max-width-991.98-START==================*/
+    .interview-title-block {
+        height: 410px;
+    }
+
+    /*=====================INTERVIEW-BLOCK-MEDIA-max-width-991.98-END====================*/
+    /*====================LIKE-GYMNASIUM-MEDIA-max-width-991.98-START====================*/
+    .like-gymnasium {
+        margin: 70px 0;
+    }
+
+    .single-item {
+        padding: 40px 15px 0 15px;
+        width: 33.3%;
+    }
+
+    .photo-item {
+        height: 75px;
+    }
+
+    .single-item p {
+        font-weight: normal;
+        font-size: 16px;
+    }
+
+    /*=====================LIKE-GYMNASIUM-MEDIA-max-width-991.98-END=====================*/
+    /*======================FIRST-CLASS-MEDIA-max-width-991.98-START=====================*/
+    .first-class {
+        padding-top: 70px;
+    }
+
+    .our-teachers {
+        padding: 50px 0;
+    }
+
+    .about-teacher-info p {
+        font-size: 16px;
+        line-height: 1.3;
+    }
+
+    .character-tick {
+        width: 35px;
+        height: 35px;
+    }
+
+    .character-tick:before {
+        border-width: 0 2px 2px 0;
+        height: 12px;
+        width: 6px;
+        left: 41%;
+        top: 25%;
+        border-radius: 2px;
+    }
+
+    .work-character p {
+        font-size: 15px;
+    }
+
+    /*========================FIRST-CLASS-MEDIA-max-width-991.98-END=====================*/
+    /*=======================ACHIEVEMENT-MEDIA-max-width-991.98-START-===================*/
+    .achievement {
+        padding: 65px 0 75px;
+    }
+
+    .our-achievement ul li {
+        margin-top: 25px;
+        width: 50%;
+        min-height: 0;
+    }
+
+    /*========================ACHIEVEMENT-MEDIA-max-width-991.98-END-====================*/
+    /*=========================REVIEWS-MEDIA-max-width-991.98-START======================*/
+    .reviews-section {
+        padding: 70px 0;
+    }
+
+    .reviews .section-title h5 a:before {
+        height: 8px;
+        width: 8px;
+        top: 12px;
+    }
+
+    .reviews-block-js .slick-next {
+        width: 61px;
+        height: 61px;
+        right: 3%;
+        top: 50%;
+    }
+
+    .reviews-block-js .slick-next:before {
+        height: 16px;
+        width: 16px;
+        top: 21px;
+        right: 24px;
+    }
+
+    .reviews-block-js .slick-prev {
+        width: 61px;
+        height: 61px;
+        right: unset;
+        top: 50%;
+        left: 3%;
+    }
+
+    .reviews-block-js .slick-prev:before {
+        height: 16px;
+        width: 16px;
+        top: 21px;
+        left: 24px;
+    }
+
+    /*=========================REVIEWS-MEDIA-max-width-991.98-END========================*/
+    /*====================DIRECTOR-MESSAGE-MEDIA-max-width-991.98-START==================*/
+    .director-info p {
+        line-height: 1.3;
+    }
+
+    .director-photo {
+        width: 42.2%;
+    }
+
+    .director-info {
+        width: 55%;
+    }
+
+    /*=====================DIRECTOR-MESSAGE-MEDIA-max-width-991.98-END===================*/
+    /*====================SIGN-UP-INTERVIEW-MEDIA-max-width-991.98-START=================*/
+    .sign-up-interview {
+        margin-top: 60px;
+        padding: 25px 35px 25px 35px;
+    }
+
+    .sign-up-btn .slider-button {
+        max-width: unset;
+        width: 100%;
+    }
+
+    .sign-up-interview:before {
+        width: 85px;
+        height: 89px;
+    }
+
+    .interview-footer {
+        margin-top: 70px;
+    }
+
+    /*====================SIGN-UP-INTERVIEW-MEDIA-max-width-991.98-END===================*/
+    /*=====================PAGE-TITLE-MEDIA-max-width-991.98-START=======================*/
+    .page-title-block h1 {
+        font-size: 28px;
+    }
+
+    .page-title-block p {
+        font-size: 20px;
+    }
+
+    /*======================PAGE-TITLE-MEDIA-max-width-991.98-END========================*/
+    /*======================EDUCATION-MEDIA-max-width-991.98-START=======================*/
+    .important-education {
+        margin-bottom: 40px;
+    }
+
+    .page-menu > ul {
+        background-color: #F6F6F6;
+        padding: 12px 20px;
+    }
+
+    .page-menu > ul > li a {
+        font-size: 13px;
+    }
+
+    .page-menu > ul > li {
+        padding: 20px 0;
+    }
+
+    .child-img {
+        max-width: 145px;
+    }
+
+    .about-education h6 {
+        font-size: 21px;
+        margin-top: 35px;
+    }
+
+    .about-education p {
+        font-size: 14px;
+        line-height: 1.4;
+    }
+
+    .education_h1 p {
+        font-size: 16px;
+        line-height: 1.4;
+    }
+
+    .table-info {
+        overflow: scroll;
+        margin: 35px 0 45px;
+    }
+
+    .table-info table {
+        width: 630px;
+    }
+
+    .education-pic-info {
+        margin: 35px 0 38px;
+    }
+
+    .education-pic {
+        height: 340px;
+    }
+
+    .important-page-part {
+        padding: 20px 20px 24px 20px;
+        margin: 36px 0;
+    }
+
+    .education-list ul li, .education-list ol li {
+        margin-top: 8px;
+        font-size: 14px;
+        padding-left: 15px;
+    }
+
+    .note p {
+        font-size: 12px;
+    }
+
+    .downloading-file a {
+        font-size: 14px;
+    }
+
+    .education-footer {
+        margin-top: 60px;
+    }
+
+    /*=======================EDUCATION-MEDIA-max-width-991.98-END========================*/
+    /*===============GYMNASIUM-ACHIEVEMENT-MEDIA-max-width-991.98-START==================*/
+    .same-page-menu > ul > li {
+        font-size: 15px;
+        color: #454545;
+    }
+
+    .same-page-menu > ul > li > ul > li > a {
+        padding-left: 7px;
+    }
+
+    .same-page-menu .child-img {
+        max-width: 196px;
+        height: 192px;
+        margin: 25px auto 0 auto;
+    }
+
+    .gymnasium-achievement-info > p {
+        font-size: 16px;
+        line-height: 1.4;
+    }
+
+    .hashtag {
+        margin: 27px 0 10px;
+    }
+
+    .olympiad-text h5 a {
+        font-size: 16px;
+        line-height: 1.4;
+    }
+
+    .olympiad-text p {
+        font-size: 14px;
+        line-height: 1.4;
+    }
+
+    /*================GYMNASIUM-ACHIEVEMENT-MEDIA-max-width-991.98-END===================*/
+    /*=======================QUESTIONS-MEDIA-max-width-991.98-START======================*/
+    .questions-info > p {
+        font-size: 16px;
+        margin-bottom: 30px;
+        line-height: 1.4;
+    }
+
+    .about-questions {
+        margin-bottom: 25px;
+        padding: 20px 35px 20px 25px;
+        background: #FFFFFF;
+        border: 1px solid #E9E9E9;
+        border-radius: 6px;
+        position: relative;
+    }
+
+    .single-question h5 {
+        font-size: 16px;
+    }
+
+    .single-question span {
+        right: 18px;
+        top: 13px;
+    }
+
+    .all-question {
+        line-height: 1.4;
+    }
+
+    .questions-info .sign-up-interview {
+        margin-top: 60px;
+        padding: 30px 20px 48px 20px;
+    }
+
+    .sign-up-interview h5 {
+        font-size: 20px;
+        line-height: 1.4;
+    }
+
+    .questions-info .sign-up-interview:before {
+        width: 51px;
+        height: 53px;
+    }
+
+    .questions-info .name-number p, .your-comments p {
+        font-weight: normal;
+        font-size: 14px;
+        color: #666666;
+    }
+
+    .questions-info .sign-up-btn {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+
+    .more-information .sign-up-btn .slider-button {
+        max-width: unset;
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+
+    /*=========================QUESTIONS-MEDIA-max-width-991.98-END======================*/
+    /*=====================MAIN_REVIEWS-MEDIA-max-width-991.98-START====================*/
+    .reviews-text {
+        padding: 25px;
+    }
+
+    .all-reviews .single-reviews:nth-child(odd) .reviews-text {
+        margin-right: 20px;
+    }
+
+    .all-reviews .single-reviews:nth-child(even) .reviews-text {
+        margin-left: 20px;
+    }
+
+    .main-reviews-info > p {
+        font-size: 18px;
+        line-height: 1.4;
+    }
+
+    .all-reviews {
+        margin-top: 30px;
+        margin-bottom: 50px;
+    }
+
+    .reviews-text-title h6 {
+        font-size: 17px;
+    }
+
+    .reviews-text-title span {
+        font-size: 13px;
+    }
+
+    .reviews-text i {
+        font-size: 14px;
+    }
+
+    .main-reviews-info .sign-up-btn {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+
+    /*======================MAIN_REVIEWS-MEDIA-max-width-991.98-END=====================*/
+    /*=====================OUR-STUDENTS-MEDIA-max-width-991.98-START====================*/
+    .our-students-info > p {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+
+    .student-text i {
+        margin-bottom: 10px;
+    }
+
+    .student-text h5 a {
+        font-size: 16px;
+        line-height: 1.4;
+    }
+
+    .student-text span {
+        font-size: 13px;
+        margin-bottom: 10px;
+    }
+
+    .student-text p {
+        font-size: 14px;
+        line-height: 1.4;
+    }
+
+    /*======================OUR-STUDENTS-MEDIA-max-width-991.98-END=====================*/
+    /*=====================OUR-TEACHERS-MEDIA-max-width-991.98-START====================*/
+    .our-teachers-info > p {
+        font-size: 16px;
+        line-height: 1.4;
+    }
+
+    .our-teachers-info h5 {
+        margin-top: 30px;
+        font-size: 22px;
+        margin-bottom: 25px;
+    }
+
+    .leadership .teacher-info {
+        width: 50%;
+        min-height: 250px;
+    }
+
+    .teacher-info-photo {
+        margin-bottom: 5px;
+    }
+
+    .teacher-info p {
+        margin-bottom: 5px;
+    }
+
+    .teacher-message {
+        max-width: 350px;
+        width: 100%;
+    }
+
+    .teachers-list .teacher-info {
+        width: 33.333333%;
+    }
+    .teachers-list .teacher-message{
+        width: 100%;
+    }
+    .teachers-list .right-dropdown .teacher-message,  .teachers-list .left-dropdown .teacher-message  {
+        left: 0;
+        top: 66%;
+    }
+    .right-dropdown .teacher-message, .left-dropdown .teacher-message {
+        right: unset;
+        top: 74%;
+        left: 0;
+    }
+
+    /*======================OUR-TEACHERS-MEDIA-max-width-991.98-END=====================*/
+    /*=======================ARCHIVE-MEDIA-max-width-991.98-START=======================*/
+    .media-archive h5 {
+        margin-bottom: 20px;
+    }
+
+    .media-archive .photo-video a > span {
+        font-size: 12px;
+        margin: 5px 0;
+    }
+
+    .media-archive .photo-video p {
+        font-size: 16px;
+    }
+
+    .album-block .child-img {
+        max-width: 185px;
+        height: 215px;
+    }
+
+    /*========================ARCHIVE-MEDIA-max-width-991.98-END========================*/
+    /*========================PHOTO-ALBUM-max-width-991.98-START========================*/
+    .album-title a {
+        font-size: 14px;
+    }
+
+    .album-title {
+        margin-bottom: 20px;
+    }
+
+    /*=========================PHOTO-ALBUM-max-width-991.98-END=========================*/
+    /*====================VACANT-PLACES-MEDIA-max-width-991.98-START====================*/
+    .vacant-places-info > p {
+        font-size: 18px;
+        margin-bottom: 30px;
+    }
+
+    .vacant-places-info table th {
+        padding: 17px 0;
+    }
+
+    .vacant-places-info table td {
+        padding: 10px 0;
+    }
+
+    .vacant-appointment {
+        margin-bottom: 45px;
+    }
+
+    .interview-details p {
+        font-size: 15px;
+        line-height: 1.4;
+    }
+
+    /*=====================VACANT-PLACES-MEDIA-max-width-991.98-END=====================*/
+    /*==================TEACHER-PUBLICATION-MEDIA-max-width-991.98-START================*/
+    .publication-info span {
+        margin-bottom: 10px;
+    }
+
+    .same-publication {
+        padding: 15px 0;
+    }
+
+    .search-input {
+        margin-bottom: 30px;
+    }
+
+    /*===================TEACHER-PUBLICATION-MEDIA-max-width-991.98-END=================*/
+    /*======================RESOURCES--MEDIA-max-width-991.98-START=====================*/
+    .downloading-test p {
+        font-size: 15px;
+    }
+
+    .downloading-test a {
+        font-size: 15px;
+    }
+
+    /*=======================RESOURCES-MEDIA-max-width-991.98-END=======================*/
+    /*========================STUDIOS-MEDIA-max-width-991.98-START======================*/
+    .studios-info p {
+        font-size: 14px;
+        line-height: 1.4;
+    }
+
+    .date-info table td {
+        font-size: 14px;
+    }
+
+    .mySlides-block__items {
+        height: 370px;
+    }
+
+    .slider-arrow-prev {
+        width: 55px;
+        height: 55px;
+    }
+
+    .slider-arrow-next {
+        width: 55px;
+        height: 55px;
+    }
+
+    .slider-arrow-prev:before {
+        height: 15px;
+        width: 15px;
+        top: 21px;
+        right: 22px;
+    }
+
+    .slider-arrow-next:before {
+        height: 15px;
+        width: 15px;
+        top: 21px;
+        left: 22px;
+    }
+
+    /*=========================STUDIOS-MEDIA-max-width-991.98-END=======================*/
+    /*====================GYMNASIUM-NEWS-MEDIA-max-width-991.98-START===================*/
+    .publication-info h6 a {
+        font-size: 16px;
+    }
+
+    .publication-info > p {
+        line-height: 1.4;
+    }
+
+    /*=====================GYMNASIUM-NEWS-MEDIA-max-width-991.98-END====================*/
+    /*====================CONTACTS-SECTION-MEDIA-max-width-991.98-START=================*/
+    .contacts-info > p {
+        font-size: 16px;
+        line-height: 1.5;
+    }
+
+    .contacts-list .address-info, .contacts-list .number-info, .contacts-list .mail-info {
+        margin-bottom: 26px;
+    }
+
+    .map-info {
+        height: 370px;
+    }
+
+    /*=====================CONTACTS-SECTION-MEDIA-max-width-991.98-END==================*/
+}
+
+@media (max-width: 767.98px) {
+    .section-title h5 {
+        font-size: 24px;
+    }
+
+    .olympiad-text h5 a {
+        font-size: 16px;
+    }
+
+    /*=======================-HEADER-MEDIA-max-width-767.98-START-=======================*/
+    .unset-mobile {
+        display: none;
+    }
+
+    .contacts ul {
+        -webkit-box-pack: justify;
+            -ms-flex-pack: justify;
+                justify-content: space-between;
+    }
+
+    .contacts ul li + li {
+        margin-left: 0;
+    }
+
+    .logo-main {
+        width: 30px;
+        height: 45px;
+        margin-bottom: 10px;
+    }
+
+    .company-name i {
+        font-size: 12px;
+    }
+
+    .company-name p a, .address-info p, .director-number p a {
+        font-size: 13px;
+    }
+
+    .number-info {
+        width: 153px;
+    }
+
+    .logo-name {
+        max-width: 183px;
+    }
+
+    .contacts ul li a {
+        font-size: 12px;
+    }
+
+    .write-message-mobile button {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .write-message button {
+        display: none;
+    }
+
+    .sidenav > ul > li > a {
+        font-size: 16px;
+    }
+
+    .dropdown-content {
+        width: 380px;
+    }
+
+    .dropdown-content h6 {
+        font-size: 14px;
+    }
+
+    .dropdown-content ul li a {
+        font-size: 13px;
+    }
+
+    /*========================-HEADER-MEDIA-max-width-767.98-END-========================*/
+    /*====================-MAIN-SLIDER-MEDIA-max-width-767.98-START-=====================*/
+    .gymnasium-slider-block {
+        height: 345px;
+    }
+
+    .slider-title h1 {
+        font-size: 30px;
+    }
+
+    .slider-title p {
+        font-size: 20px;
+    }
+
+    .slider-button {
+        margin-top: 35px;
+    }
+
+    .slider-button button {
+        width: 180px;
+        height: 45px;
+        font-size: 15px;
+    }
+
+    .main-slider-js .slick-dots {
+        bottom: 10px;
+    }
+
+    .main-slider-js .slick-dots li {
+        width: 15px;
+        height: 15px;
+    }
+
+    /*=====================-MAIN-SLIDER-MEDIA-max-width-767.98-END-======================*/
+    /*=======================-ABOUT-US-MEDIA-max-width-767.98-START-=====================*/
+    .about-us {
+        margin-top: 40px;
+    }
+
+    .about-us h5 {
+        margin-bottom: 20px;
+    }
+
+    .about-us p {
+        font-size: 14px;
+    }
+
+    .company-info ul li {
+        width: 100%;
+        font-size: 14px;
+    }
+
+    .company-info {
+        margin-top: 20px;
+    }
+
+    /*========================-ABOUT-US-MEDIA-max-width-767.98-END-======================*/
+    /*========================-EVENTS-MEDIA-max-width-767.98-START-======================*/
+    .events {
+        margin-top: 40px;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+
+    .last-events {
+        width: 100%;
+    }
+
+    .events-calendar {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .news-photo {
+        background-size: contain;
+        margin-bottom: 10px;
+    }
+
+    /*=========================-EVENTS-MEDIA-max-width-767.98-END-=======================*/
+    /*========================-GALLERY-MEDIA-max-width-767.98-START-=====================*/
+    .gallery-section {
+        padding-top: 40px;
+    }
+
+    .link-title {
+        margin-bottom: 25px;
+    }
+
+    .gallery .link-title h4 a {
+        font-size: 25px;
+    }
+
+    .photo-video p {
+        font-size: 15px;
+    }
+
+    .photo-popup i {
+        font-size: 18px;
+    }
+
+    .photo-popup i:before {
+        height: 7px;
+        width: 7px;
+        right: -13px;
+        top: 7px;
+    }
+
+    /*=========================-GALLERY-MEDIA-max-width-767.98-END-======================*/
+    /*========================FOOTER-MEDIA-max-width-767.98-START-========================*/
+    footer {
+        margin-top: 30px;
+    }
+
+    .children-pic {
+        display: none;
+    }
+
+    .footer-info {
+        width: 100%;
+    }
+
+    .footer-logo {
+        display: none;
+    }
+
+    .footer-main {
+        padding: 30px 0;
+        position: relative;
+    }
+
+    /*=========================FOOTER-MEDIA-max-width-767.98-END-=========================*/
+    /*===================INTERVIEW-HEADER-MEDIA-max-width-767.98-START===================*/
+    .interview-header .company-name p a {
+        width: 135px;
+    }
+
+    .interview-header .write-message button {
+        width: 160px;
+        display: block;
+    }
+
+    .write-message button, .write-message-mobile button {
+        font-size: 13px;
+    }
+
+    .interview-header .number-info {
+        display: none;
+    }
+
+    /*====================INTERVIEW-HEADER-MEDIA-max-width-767.98-END====================*/
+    /*=====================INTERVIEW-BLOCK-MEDIA-max-width-767.98-START==================*/
+    .interview-title-block {
+        height: 305px;
+    }
+
+    .interview-block .slider-button button {
+        width: 290px;
+    }
+
+    /*=====================INTERVIEW-BLOCK-MEDIA-max-width-767.98-END====================*/
+    /*====================LIKE-GYMNASIUM-MEDIA-max-width-767.98-START====================*/
+    .like-gymnasium {
+        margin: 50px 0;
+    }
+
+    .single-item {
+        padding: 30px 15px 0 15px;
+        width: 50%;
+    }
+
+    .photo-item {
+        height: 65px;
+    }
+
+    /*=====================LIKE-GYMNASIUM-MEDIA-max-width-767.98-END=====================*/
+    /*======================FIRST-CLASS-MEDIA-max-width-767.98-START=====================*/
+    .first-class {
+        padding-top: 50px;
+    }
+
+    .about-teacher {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        margin-bottom: 20px;
+    }
+
+    .left-form {
+        -ms-flex-wrap: wrap-reverse;
+            flex-wrap: wrap-reverse;
+    }
+
+    .teacher-photo {
+        width: 100%;
+    }
+
+    .about-teacher-info {
+        width: 100%;
+    }
+
+    .about-teacher-info h5 {
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+
+    .work-character {
+        margin-bottom: 5px;
+        width: 50%;
+    }
+
+    .work-character br {
+        display: none;
+    }
+
+    .our-teachers {
+        padding: 30px 0;
+    }
+
+    /*========================FIRST-CLASS-MEDIA-max-width-767.98-END=====================*/
+    /*=======================ACHIEVEMENT-MEDIA-max-width-767.98-START-===================*/
+    .achievement {
+        padding: 45px 0 55px;
+    }
+
+    .our-achievement ul li {
+        font-size: 14px;
+    }
+
+    /*========================ACHIEVEMENT-MEDIA-max-width-767.98-END-====================*/
+    /*=========================REVIEWS-MEDIA-max-width-767.98-START======================*/
+    .reviews-section {
+        padding: 50px 0;
+    }
+
+    /*=========================REVIEWS-MEDIA-max-width-767.98-END========================*/
+    /*====================DIRECTOR-MESSAGE-MEDIA-max-width-767.98-START==================*/
+    .director-message {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+
+    .director-photo {
+        width: 100%;
+    }
+
+    .director-info {
+        width: 100%;
+    }
+
+    /*=====================DIRECTOR-MESSAGE-MEDIA-max-width-767.98-END===================*/
+    /*====================SIGN-UP-INTERVIEW-MEDIA-max-width-767.98-START=================*/
+    .sign-up-interview {
+        margin-top: 40px;
+        padding: 20px 20px 20px 20px;
+    }
+
+    .sign-up-interview:before {
+        width: 50px;
+        height: 50px;
+    }
+
+    .sign-up-interview h5 {
+        font-size: 18px;
+    }
+
+    .sign-up-interview > p {
+        font-size: 12px;
+        line-height: 1.2;
+        margin-bottom: 30px;
+    }
+
+    .name-number p, .your-comments p {
+        font-weight: normal;
+        font-size: 14px;
+        color: #666666;
+    }
+
+    .sign-up-btn .slider-button {
+        margin: 0 10px 0 0;
+    }
+
+    .sign-up-btn .slider-button button {
+        font-size: 13px;
+    }
+
+    .sign-up-btn p {
+        font-size: 12px;
+    }
+
+    .interview-footer {
+        margin-top: 50px;
+    }
+
+    /*====================SIGN-UP-INTERVIEW-MEDIA-max-width-767.98-END===================*/
+    /*=====================PAGE-TITLE-MEDIA-max-width-767.98-START=======================*/
+    .page-title {
+        height: 170px;
+    }
+
+    .page-title-block {
+        height: 170px;
+    }
+
+    .page-title-block h1 {
+        font-size: 24px;
+    }
+
+    .page-title-block p {
+        font-size: 18px;
+    }
+
+    /*======================PAGE-TITLE-MEDIA-max-width-767.98-END========================*/
+    /*======================EDUCATION-MEDIA-max-width-767.98-START=======================*/
+    .important-education {
+        margin-bottom: 30px;
+    }
+
+    .about-education-block {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+
+    .page-menu {
+        width: 100%;
+    }
+
+    .page-menu > ul > li {
+        padding: 15px 0;
+    }
+
+    .child-img {
+        height: 215px;
+        margin: 20px auto 0 auto;
+    }
+
+    .about-education {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .about-education h6 {
+        margin-top: 30px;
+    }
+
+    .education-pic-info {
+        margin: 30px 0;
+    }
+
+    .text-author {
+        padding-top: 30px;
+    }
+
+    .text-author i {
+        font-weight: normal;
+        font-size: 13px;
+        color: #A8A8A8;
+    }
+
+    .text-author a {
+        font-size: 13px;
+    }
+
+    .education-footer {
+        margin-top: 40px;
+    }
+
+    .education-footer {
+        margin-top: 25px;
+    }
+
+    /*=======================EDUCATION-MEDIA-max-width-767.98-END========================*/
+    /*===============GYMNASIUM-ACHIEVEMENT-MEDIA-max-width-767.98-START==================*/
+    .gymnasium-achievement-list {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+
+    .gymnasium-achievement-info {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .hashtag {
+        margin: 20px 0 10px;
+    }
+
+    .olympiad-info {
+        padding: 15px 0;
+    }
+
+    /*================GYMNASIUM-ACHIEVEMENT-MEDIA-max-width-767.98-END===================*/
+    /*=======================QUESTIONS-MEDIA-max-width-767.98-START======================*/
+    .questions-list {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+
+    .questions-info {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .single-question h5 {
+        font-size: 16px;
+    }
+
+    .questions-info > p {
+        margin-bottom: 20px;
+    }
+
+    .questions-info .sign-up-btn {
+        -ms-flex-wrap: unset;
+            flex-wrap: unset;
+    }
+
+    .more-information .sign-up-btn .slider-button {
+        margin-right: 10px;
+        margin-bottom: 0;
+    }
+
+    /*=========================QUESTIONS-MEDIA-max-width-767.98-END======================*/
+    /*=====================MAIN_REVIEWS-MEDIA-max-width-767.98-START====================*/
+    .main-reviews-list {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+
+    .main-reviews-info {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .reviews-text {
+        padding: 25px;
+    }
+
+    .main-reviews-info > p {
+        font-size: 16px;
+        line-height: 1.4;
+    }
+
+    .main-reviews-info .sign-up-btn {
+        -ms-flex-wrap: unset;
+            flex-wrap: unset;
+    }
+
+    .your-comments textarea {
+        height: 40px;
+        font-size: 14px;
+    }
+
+    .name-number label input {
+        font-size: 14px;
+    }
+
+    /*======================MAIN_REVIEWS-MEDIA-max-width-767.98-END=====================*/
+    /*=====================OUR-STUDENTS-MEDIA-max-width-767.98-START====================*/
+    .our-students-list {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+
+    .our-students-info {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .our-students-info > p {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+
+    .student-info {
+        padding: 15px 0;
+    }
+
+    /*======================OUR-STUDENTS-MEDIA-max-width-767.98-END=====================*/
+    /*=====================OUR-TEACHERS-MEDIA-max-width-767.98-START====================*/
+    .our-teachers-list {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+
+    .our-teachers-info {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .our-teachers-info h5 {
+        margin-top: 20px;
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+
+
+    /*======================OUR-TEACHERS-MEDIA-max-width-767.98-END=====================*/
+    /*=======================ARCHIVE-MEDIA-max-width-767.98-START=======================*/
+    .archive-list {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+
+    .media-archive {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .media-archive .photo-video {
+        margin-bottom: 20px;
+    }
+
+    /*========================ARCHIVE-MEDIA-max-width-767.98-END========================*/
+    /*========================PHOTO-ALBUM-max-width-767.98-START========================*/
+    .album-block {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+
+    .album-photos-slider {
+        width: 100%;
+    }
+
+    /*=========================PHOTO-ALBUM-max-width-767.98-END=========================*/
+    /*====================VACANT-PLACES-MEDIA-max-width-767.98-START====================*/
+    .vacant-places-list {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+
+    .vacant-places-info {
+        width: 100%;
+    }
+
+    .vacant-places-info > p {
+        font-size: 16px;
+        margin-bottom: 25px;
+    }
+
+    .vacant-appointment {
+        margin-bottom: 35px;
+    }
+
+    .interview-details p {
+        font-size: 14px;
+    }
+
+    .vacant-places-info .more-information {
+        margin-top: 30px;
+    }
+
+    .vacant-places-info .sign-up-btn {
+        -ms-flex-wrap: unset;
+            flex-wrap: unset;
+    }
+
+    /*=====================VACANT-PLACES-MEDIA-max-width-767.98-END=====================*/
+    /*==================TEACHER-PUBLICATION-MEDIA-max-width-767.98-START================*/
+    .teacher-publication-list {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+
+    .teacher-publication-info {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    /*===================TEACHER-PUBLICATION-MEDIA-max-width-767.98-END=================*/
+    /*======================RESOURCES--MEDIA-max-width-767.98-START=====================*/
+    .resources-list {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+
+    .resources-info {
+        width: 100%;
+    }
+
+    /*=======================RESOURCES-MEDIA-max-width-767.98-END=======================*/
+    /*========================STUDIOS-MEDIA-max-width-767.98-START======================*/
+    .studios-list {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+
+    .studios-info {
+        width: 100%;
+    }
+
+    .studios-list .child-img {
+        width: 126px;
+        height: 240px;
+    }
+
+    .art-studio-info {
+        width: 60%;
+    }
+
+    .art-studio-img {
+        width: 38%;
+    }
+
+    /*=========================STUDIOS-MEDIA-max-width-767.98-END=======================*/
+    /*====================GYMNASIUM-NEWS-MEDIA-max-width-767.98-START===================*/
+    .gymnasium-news-list {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+
+    .gymnasium-news-info {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .gymnasium-news-list .child-img {
+        height: 164px;
+    }
+
+    /*=====================GYMNASIUM-NEWS-MEDIA-max-width-767.98-END====================*/
+    /*====================CONTACTS-SECTION-MEDIA-max-width-767.98-START=================*/
+    .contacts-list {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+
+    .contacts-info {
+        width: 100%;
+    }
+
+    .map-info {
+        width: 100%;
+        height: 320px;
+    }
+
+    .mail-info .icon-form svg {
+        width: 16px;
+        height: 21px;
+    }
+
+    .contacts-info > p {
+        margin-bottom: 25px;
+    }
+
+    .contacts-list .address-info, .contacts-list .number-info, .contacts-list .mail-info {
+        margin-bottom: 20px;
+    }
+
+    /*=====================CONTACTS-SECTION-MEDIA-max-width-767.98-END==================*/
+
+}
+
+@media (max-width: 575.98px) {
+    .section-title h5 {
+        font-size: 18px;
+        margin-bottom: 15px;
+        text-align: center;
+    }
+
+    /*=======================-HEADER-MEDIA-max-width-575.98-START-=======================*/
+    .sidenav {
+        padding: 20px 5px;
+    }
+
+    .sidenav > ul > li > a {
+        font-size: 14px;
+    }
+
+    .sidenav > ul > li {
+        margin-bottom: 25px;
+    }
+
+    .sidenav > ul {
+        padding: 15px 0 0 15px;
+    }
+
+    .dropdown-content {
+        width: 261px;
+        top: 30px;
+        left: 35%;
+        padding: 10px;
+    }
+
+    .dropdown-content h6 {
+        font-size: 13px;
+        margin-bottom: 5px;
+    }
+
+    .dropdown-content ul li {
+        margin-bottom: 5px;
+    }
+
+    .dropdown-content ul li a {
+        font-size: 12px;
+    }
+
+    .address-number {
+        padding: 0 0 10px 0;
+        margin-top: 15px;
+        border: none;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+
+    .logo-name {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+        text-align: center;
+        max-width: unset;
+    }
+
+    .company-name p a {
+        width: 100%;
+        font-size: 14px;
+    }
+
+    .contacts ul li + li {
+        margin-right: 14px;
+        margin-left: 0;
+    }
+
+    .contacts ul {
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+
+    .address-number .address-info {
+        display: none;
+    }
+
+    .address-number .number-info {
+        display: none;
+    }
+
+    .address-number__mobile {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        margin-bottom: 15px;
+    }
+
+    .address-info p {
+        width: 130px;
+    }
+
+    .icon-form {
+        width: 30px;
+        height: 30px;
+    }
+
+    .icon-form a {
+        line-height: 33px;
+    }
+
+
+    .address-info .icon-form svg {
+        width: 12px;
+        height: 15px;
+    }
+
+    .number-info .icon-form svg {
+        width: 13px;
+        height: 15px;
+    }
+
+    /*========================-HEADER-MEDIA-max-width-575.98-END-========================*/
+    /*====================-MAIN-SLIDER-MEDIA-max-width-575.98-START-=====================*/
+    .slider-title h1 {
+        font-size: 20px;
+    }
+
+    .slider-title p {
+        font-size: 14px;
+    }
+
+    .slider-title p br, .white-title p br {
+        display: none;
+    }
+
+    .slider-button button {
+        width: 145px;
+        height: 40px;
+    }
+
+    .main-slider-js .slick-dots li.slick-active button {
+        width: 14px;
+        height: 14px;
+    }
+
+    .main-slider-js .slick-dots li button {
+        background-color: #DCDCDC;
+        width: 9px;
+        height: 9px;
+    }
+
+    /*=====================-MAIN-SLIDER-MEDIA-max-width-575.98-END-======================*/
+    /*=======================-ABOUT-US-MEDIA-max-width-575.98-START-=====================*/
+    .about-us {
+        margin-top: 30px;
+    }
+
+    .about-us h5 {
+        margin-bottom: 15px;
+    }
+
+    .about-us p {
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 1.4;
+    }
+
+    .company-info ul li {
+        font-size: 12px;
+        padding-left: 25px;
+        line-height: 1.8;
+    }
+
+    .company-info ul li:before {
+        width: 10px;
+        height: 10px;
+        top: 6px;
+    }
+
+    /*========================-ABOUT-US-MEDIA-max-width-575.98-END-======================*/
+    /*========================-EVENTS-MEDIA-max-width-575.98-START-======================*/
+    .events {
+        margin-top: 30px;
+    }
+
+
+    .events-info {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+
+    .events-type {
+        margin: 21px 0;
+        width: 160px;
+
+    }
+
+    .events-photo {
+        width: 100%;
+        padding-right: 0;
+    }
+
+    .events-photo {
+        border: unset;
+    }
+
+    .events-text {
+        width: 100%;
+        padding-left: 0;
+    }
+
+    .events-text .events-block + .events-block {
+        border-top: none;
+        padding-top: 0;
+    }
+
+    .events-calendar-block {
+        padding: 25px;
+    }
+
+    .events-title-text h5 {
+        font-size: 16px;
+    }
+
+    .events-title-text p {
+        font-size: 12px;
+    }
+
+    .events-title-text ul li {
+        font-size: 12px;
+    }
+
+    .link-title h4 a {
+        font-size: 18px;
+    }
+
+    .link-title h4 a:before {
+        height: 7px;
+        width: 7px;
+        right: -14px;
+        top: 7px;
+    }
+
+    .calendar-news p {
+        font-size: 12px
+    }
+
+    .news-title-text {
+        padding-left: 0;
+    }
+
+    .child-pic {
+        width: 145px;
+        height: 210px;
+    }
+
+    /*=========================-EVENTS-MEDIA-max-width-575.98-END-=======================*/
+    /*========================-GALLERY-MEDIA-max-width-575.98-START-=====================*/
+    .gallery-section {
+        padding-top: 30px;
+    }
+
+    .gallery .link-title h4 {
+        text-align: center;
+    }
+
+    .gallery .link-title h4 a {
+        font-size: 18px;
+    }
+
+    .gallery .link-title h4 a:before {
+        height: 6px;
+        width: 6px;
+        top: 8px;
+    }
+
+    .photo-video {
+        margin-bottom: 20px;
+    }
+
+    .link-title {
+        margin-bottom: 20px;
+    }
+
+    .photo-video {
+        width: 100%;
+        height: 320px;
+    }
+
+    /*=========================-GALLERY-MEDIA-max-width-575.98-END-======================*/
+    /*========================FOOTER-MEDIA-max-width-575.98-START-========================*/
+    footer {
+        margin-top: 20px;
+    }
+
+    .footer-main {
+        padding: 21px 0;
+    }
+
+    .footer-info {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+    }
+
+    .footer-info ul li {
+        font-size: 12px;
+    }
+
+    .footer-info ul li a {
+        font-size: 12px;
+        line-height: 1.5;
+    }
+
+    .info-social-media {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+    }
+
+    .info-social-media p {
+        margin-top: 5px;
+    }
+
+    .social-media-icon {
+        margin-top: 5px;
+    }
+
+    /*=========================FOOTER-MEDIA-max-width-575.98-END-=========================*/
+    /*===================INTERVIEW-HEADER-MEDIA-max-width-575.98-START===================*/
+    .interview-header {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+
+    .interview-header .write-message button {
+        width: 190px;
+        display: block;
+        margin-top: 5px;
+        height: 40px;
+    }
+
+    /*====================INTERVIEW-HEADER-MEDIA-max-width-575.98-END====================*/
+    /*=====================INTERVIEW-BLOCK-MEDIA-max-width-575.98-START==================*/
+    .interview-title-block {
+        height: 175px;
+    }
+
+    .slider-button {
+        margin-top: 20px;
+    }
+
+    .interview-block .slider-button button {
+        width: 230px;
+        font-size: 13px;
+    }
+
+    /*=====================INTERVIEW-BLOCK-MEDIA-max-width-575.98-END====================*/
+    /*====================LIKE-GYMNASIUM-MEDIA-max-width-575.98-START====================*/
+    .like-gymnasium {
+        margin: 30px 0;
+    }
+
+    .single-item {
+        padding: 20px 15px 0 15px;
+        width: 100%;
+    }
+
+    .photo-item {
+        background-position: center;
+    }
+
+    /*=====================LIKE-GYMNASIUM-MEDIA-max-width-575.98-END=====================*/
+    /*======================FIRST-CLASS-MEDIA-max-width-575.98-START=====================*/
+    .first-class {
+        padding-top: 30px;
+    }
+
+    .about-teacher-info h5 {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+
+    .about-teacher-info p {
+        font-size: 14px;
+        line-height: 1.3;
+    }
+
+    .work-character {
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+        width: 100%;
+    }
+
+    .work-character-block .work-character:first-child p, .work-character-block .work-character:last-child p,
+    .work-character-block .work-character:nth-child(2) p, .work-character-block .work-character:nth-child(3) p {
+        font-size: 12px;
+        width: 270px;
+    }
+
+
+    /*========================FIRST-CLASS-MEDIA-max-width-575.98-END=====================*/
+    /*=======================ACHIEVEMENT-MEDIA-max-width-575.98-START-===================*/
+    .achievement {
+        padding: 30px 0 40px;
+    }
+
+    .our-teachers {
+        padding: 20px 0;
+    }
+
+    .our-achievement ul li {
+        margin-top: 20px;
+        width: 100%;
+    }
+
+    /*========================ACHIEVEMENT-MEDIA-max-width-575.98-END-====================*/
+    /*=========================REVIEWS-MEDIA-max-width-575.98-START======================*/
+    .reviews-section {
+        padding: 30px 0;
+    }
+
+    .reviews .section-title h5 {
+        margin-bottom: 25px;
+    }
+
+    .main-reviews-slider {
+        padding: 15px 10px 15px 10px;
+    }
+
+    .reviews .section-title h5
+    a:before {
+        height: 5px;
+        width: 5px;
+        right: -17px;
+        top: 9px;
+    }
+
+    /*=========================REVIEWS-MEDIA-max-width-575.98-END========================*/
+    /*====================DIRECTOR-MESSAGE-MEDIA-max-width-575.98-START==================*/
+    .director-info .section-title {
+        margin-bottom: 20px;
+    }
+
+    .director-info p {
+        font-size: 14px;
+    }
+
+    .director-photo {
+        height: 335px;
+    }
+
+    /*=====================DIRECTOR-MESSAGE-MEDIA-max-width-575.98-END===================*/
+    /*====================SIGN-UP-INTERVIEW-MEDIA-max-width-575.98-START=================*/
+    .sign-up-interview {
+        margin-top: 30px;
+        padding: 10px;
+    }
+
+    .sign-up-interview:before {
+        display: none;
+    }
+
+    .sign-up-interview h5 {
+        font-size: 16px;
+        line-height: 1.2;
+        text-align: center;
+        margin-bottom: 5px;
+    }
+
+    .sign-up-interview > p {
+        line-height: 1.1;
+        margin-bottom: 15px;
+    }
+
+    .name-number {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        margin-bottom: 0;
+    }
+
+    .name-number label {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .your-comments label input {
+        height: 35px;
+    }
+
+    .sign-up-btn {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+
+    .sign-up-btn .slider-button button {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+
+    .sign-up-interview form > p {
+        font-size: 12px;
+        text-align: center;
+    }
+
+    .sign-up-interview form > p > a {
+        font-size: 16px;
+        margin-left: 0;
+    }
+
+    .interview-footer {
+        margin-top: 30px;
+    }
+
+    /*====================SIGN-UP-INTERVIEW-MEDIA-max-width-575.98-END===================*/
+    /*=====================PAGE-TITLE-MEDIA-max-width-575.98-START=======================*/
+    .page-title {
+        height: 140px;
+    }
+
+    .page-title-block h1 {
+        font-size: 18px;
+    }
+
+    .page-title-block p {
+        font-size: 13px;
+        line-height: 1.2;
+
+    }
+
+    .page-title-block {
+        height: 140px;
+    }
+
+    /*======================PAGE-TITLE-MEDIA-max-width-575.98-END========================*/
+    /*======================EDUCATION-MEDIA-max-width-575.98-START=======================*/
+    .education-section {
+        padding-top: 15px;
+    }
+
+    .important-education {
+        margin-bottom: 20px;
+    }
+
+    .important-education a {
+        font-size: 12px;
+    }
+
+    .page-menu > ul > li a {
+        font-size: 12px;
+    }
+
+    .page-menu > ul > li {
+        padding: 10px 0;
+    }
+
+    .child-img {
+        height: 178px;
+        margin: 15px auto 0 auto;
+        max-width: 100px;
+    }
+
+    .about-education h6 {
+        margin-top: 15px;
+        font-size: 16px;
+        text-align: center;
+    }
+
+    .about-education p {
+        font-size: 12px;
+    }
+
+    .education_h1 p {
+        font-size: 14px;
+    }
+
+    .table-info table tr th:first-child, .table-info table tr td:first-child {
+        background-color: #F4F7F4;
+        text-align: left;
+        padding-left: 10px;
+    }
+
+    .table-info {
+        margin: 25px 0 30px;
+    }
+
+    .table-info table {
+        width: 420px;
+    }
+
+    .table-info table, th, td {
+        font-size: 12px;
+    }
+
+    .table-info table tr th {
+        padding: 15px 5px;
+    }
+
+    .table-info table tr td {
+        padding: 15px 5px;
+    }
+
+    .education-pic-info {
+        margin: 20px 0;
+    }
+
+    .education-pic {
+        height: 240px;
+    }
+
+    .important-page-part {
+        padding: 10px 10px 14px 10px;
+        margin: 20px 0;
+    }
+
+    .education-list ul li, .education-list ol li {
+        margin-top: 5px;
+        font-size: 12px;
+        padding-left: 15px;
+    }
+
+    .education-list ol li:before {
+        font-size: 12px;
+    }
+
+    .note {
+        padding: 10px 14px 12px 13px;
+        margin: 15px 0 20px;
+    }
+
+    .downloading-file {
+        margin: 20px 0 25px;
+    }
+
+    .downloading-file a {
+        font-size: 12px;
+    }
+
+    .downloading-file a:before {;
+        width: 12px;
+        height: 14px;
+    }
+
+    .text-author i {
+        font-size: 12px;
+    }
+
+    .text-author {
+        padding-top: 15px;
+    }
+
+    .text-author a {
+        font-size: 12px;
+    }
+
+    /*=======================EDUCATION-MEDIA-max-width-575.98-END========================*/
+    /*===============GYMNASIUM-ACHIEVEMENT-MEDIA-max-width-575.98-START==================*/
+    .same-page-menu .child-img {
+        height: 178px;
+        margin: 15px auto 0 auto;
+    }
+
+    .gymnasium-achievement-info > p {
+        font-size: 14px;
+    }
+
+    .hashtag ul li {
+        margin: 0 15px 15px 0;
+    }
+
+    .olympiad-info {
+        padding: 10px 0;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+
+    .olympiad-photo {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .olympiad-text {
+        width: 100%;
+    }
+
+    .olympiad-text h5 a {
+        text-align: left;
+    }
+
+    .olympiad-text p {
+        font-size: 12px;
+        line-height: 1.4;
+    }
+
+    /*================GYMNASIUM-ACHIEVEMENT-MEDIA-max-width-575.98-END===================*/
+    /*=======================QUESTIONS-MEDIA-max-width-575.98-START======================*/
+    .questions-info > p {
+        font-size: 14px;
+        line-height: 1.4;
+    }
+
+    .about-questions {
+        margin-bottom: 20px;
+        padding: 15px 28px 15px 15px;
+    }
+
+    .single-question h5 {
+        font-size: 15px;
+    }
+
+    .single-question span {
+        right: 6px;
+        top: 18px;
+        width: 28px;
+        height: 28px;
+    }
+
+    .single-question span:before {
+        right: 9px;
+        top: 7px;
+        width: 7px;
+        height: 7px;
+    }
+
+    .all-question {
+        font-size: 13px;
+    }
+
+    .questions-info .sign-up-interview {
+        margin-top: 40px;
+        padding: 10px;
+    }
+
+    .questions-info .sign-up-btn {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+
+    .more-information .sign-up-btn .slider-button {
+        margin-right: 0;
+    }
+
+    /*=========================QUESTIONS-MEDIA-max-width-575.98-END======================*/
+    /*=====================MAIN_REVIEWS-MEDIA-max-width-575.98-START====================*/
+    .main-reviews-info .sign-up-btn {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+
+    .reviews-text {
+        padding: 20px;
+        margin-right: 20px;
+    }
+
+    .reviews-text-title {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+
+    .reviews-text-title h6 {
+        font-size: 14px;
+    }
+
+    .reviews-text-title span {
+        font-size: 12px;
+    }
+
+    .reviews-text > p {
+        font-size: 12px;
+        line-height: 1.4;
+        margin-bottom: 10px;
+    }
+
+    .reviews-icon {
+        width: 30px;
+        height: 30px;
+    }
+
+    .reviews-text:before {
+        top: 47%;
+        height: 15px;
+        width: 15px;
+        right: -9px;
+    }
+
+    .reviews-text i {
+        font-size: 12px;
+    }
+
+    /*======================MAIN_REVIEWS-MEDIA-max-width-575.98-END=====================*/
+    /*=====================OUR-STUDENTS-MEDIA-max-width-575.98-START====================*/
+    .student-info {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+
+    .student-photo {
+        width: 100%;
+    }
+
+    .student-text {
+        width: 100%;
+    }
+
+    .our-students-info > p {
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+
+    .student-text i {
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
+
+    .student-text p {
+        font-size: 12px;
+    }
+
+    .student-text span {
+        font-size: 12px;
+        margin-bottom: 7px;
+    }
+
+    .student-text h5 {
+        text-align: left;
+    }
+
+    /*======================OUR-STUDENTS-MEDIA-max-width-575.98-END=====================*/
+    /*=====================OUR-TEACHERS-MEDIA-max-width-575.98-START====================*/
+    .our-teachers-info > p {
+        font-size: 14px;
+        line-height: 1.4;
+    }
+
+    .our-teachers-info h5 {
+        text-align: center;
+    }
+
+    .leadership .teacher-info {
+        width: 50%;
+        min-height: 275px;
+    }
+
+    .teacher-message {
+        padding: 15px 10px 10px 10px;
+        top: 100px;
+    }
+
+    .teacher-message p {
+        font-size: 12px;
+        line-height: 1.1;
+    }
+
+    .teacher-message h6 {
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+
+    .teachers-list .teacher-info {
+        width: 50%;
+    }
+
+    .teachers-list {
+        margin: 0 -10px;
+    }
+
+    .teachers-list .teacher-info {
+        width: 50%;
+        padding: 0 10px 5px;
+    }
+
+    .teachers-list .right-dropdown .teacher-message,  .teachers-list .left-dropdown .teacher-message  {
+        top: 65%;
+    }
+    .right-dropdown .teacher-message, .left-dropdown .teacher-message {
+        top: 67%;
+    }
+
+    /*======================OUR-TEACHERS-MEDIA-max-width-575.98-END=====================*/
+    /*=======================ARCHIVE-MEDIA-max-width-575.98-START=======================*/
+    .media-archive .photo-video {
+        width: 100%;
+    }
+
+    .media-archive .photo-video p {
+        font-size: 15px;
+        text-align: center;
+    }
+
+    .media-archive .photo-video a > span {
+        text-align: center;
+    }
+
+    /*========================ARCHIVE-MEDIA-max-width-575.98-END========================*/
+    /*========================PHOTO-ALBUM-max-width-575.98-START========================*/
+    .album-title {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        margin-bottom: 10px;
+    }
+
+    .album-title a {
+        margin: 0 auto;
+    }
+
+    .album-title h5 {
+        margin: 0 auto 10px;
+    }
+
+    /*=========================PHOTO-ALBUM-max-width-575.98-END=========================*/
+    /*====================VACANT-PLACES-MEDIA-max-width-575.98-START====================*/
+    .vacant-places-info .sign-up-btn {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+
+    .vacant-appointment {
+        overflow: scroll;
+    }
+
+    /*=====================VACANT-PLACES-MEDIA-max-width-575.98-END=====================*/
+    /*======================RESOURCES--MEDIA-max-width-575.98-START=====================*/
+    .downloading-test p {
+        font-size: 12px;
+        width: 57%;
+    }
+
+    .downloading-test a {
+        font-size: 13px;
+        padding-left: 15px;
+        width: 42%;
+
+    }
+
+    .downloading-test a:before {
+        width: 10px;
+        height: 10px;
+        top: 3px;
+    }
+
+    /*=======================RESOURCES-MEDIA-max-width-575.98-END=======================*/
+    /*========================STUDIOS-MEDIA-max-width-575.98-START======================*/
+    .studios-info h3, .studios-info h5 {
+        text-align: center;
+
+    }
+
+    .studios-list .child-img {
+        height: 190px;
+    }
+
+    .art-studio {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        margin-bottom: 20px;
+    }
+
+    .art-studio-info {
+        width: 100%;
+    }
+
+    .art-studio-img {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .studios-info > p {
+        margin-bottom: 20px;
+    }
+
+    .date-info {
+        margin-bottom: 20px;
+    }
+
+    .slider-arrow-prev, .slider-arrow-next {
+        width: 35px;
+        height: 35px;
+    }
+
+    .slider-arrow-prev:before {
+        height: 12px;
+        width: 12px;
+        top: 12px;
+        right: 13px;
+    }
+
+    .slider-arrow-next:before {
+        height: 12px;
+        width: 12px;
+        top: 12px;
+        left: 13px;
+    }
+
+    .mySlides-block__items {
+        height: 260px;
+    }
+
+    .demo-block__items {
+        width: 50%;
+    }
+
+    /*=========================STUDIOS-MEDIA-max-width-575.98-END=======================*/
+    /*====================GYMNASIUM-NEWS-MEDIA-max-width-575.98-START===================*/
+    .publication-with-photo {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+
+    .publication-photo {
+        width: 100%;
+    }
+
+    .publication-info {
+        width: 100%;
+    }
+
+    .publication-info p {
+        font-size: 12px;
+    }
+
+    /*=====================GYMNASIUM-NEWS-MEDIA-max-width-575.98-END====================*/
+    /*====================CONTACTS-SECTION-MEDIA-max-width-575.98-START=================*/
+    .contacts-info h3 {
+        margin-bottom: 15px;
+        text-align: center;
+    }
+
+    .contacts-info > p {
+        font-size: 14px;
+        line-height: 1.4;
+        margin-bottom: 25px;
+    }
+
+    .contacts-list .address-info, .contacts-list .number-info, .contacts-list .mail-info {
+        margin-bottom: 15px;
+    }
+    .all-numbers .number-type p a, .mail-info p a, .number-type span, .contacts-list .address-info p {
+        font-size: 15px;
+    }
+
+    .all-numbers .director-number p a, .study-part p a, .office-number p a, .mail-info p a, .all-numbers .director-number span, .contacts-list .address-info p {
+        font-size: 15px;
+    }
+
+    .mail-info .icon-form svg {
+        width: 14px;
+        height: 14px;
+    }
+
+    .map-info {
+        height: 260px;
+    }
+
+    /*=====================CONTACTS-SECTION-MEDIA-max-width-575.98-END==================*/
+}
+
+
+
+
+
+
+
+
+
+
+
+

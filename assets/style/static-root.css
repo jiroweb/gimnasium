@@ -1,0 +1,50 @@
+/*====================================-ROOT-STYLE-START-======================================*/
+:root {
+
+    --color-green: rgb(41, 172, 51);
+    --color-orange: rgb(252, 169, 56);
+
+    --bg-color-btn: radial-gradient(59.00px at 46.81% -30%, rgba(252, 169, 56, 0.35) 0%, rgba(252, 169, 56, 0) 100%);
+
+    --transition-all: .3s;
+}
+/*====================================-ROOT-STYLE-END-======================================*/
+
+
+/*====================================-STATIC-STYLE-START-======================================*/
+.container {
+    max-width: 1200px;
+    width: 100%;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.btn * {
+    position: relative;
+    overflow: hidden;
+}
+
+.btn *:before {
+    content: "";
+    position: absolute;
+    width: 3em;
+    height: 100%;
+    top: 0;
+    left: -35%;
+    -webkit-transform: skewX(-45deg) translateX(0);
+    -ms-transform: skewX(-45deg) translateX(0);
+    transform: skewX(-45deg) translateX(0);
+    background: rgba(255, 255, 255, 0.5);
+    opacity: 0;
+    visibility: hidden;
+}
+
+.btn *:hover:before {
+    left: 130%;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+/*====================================-STATIC-STYLE-END-======================================*/
